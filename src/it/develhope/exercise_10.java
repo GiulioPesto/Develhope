@@ -88,6 +88,9 @@ public class exercise_10 {
             case 19:
                 System.out.println("This the largest prime number under 20");
                 break;
+            default:
+                System.out.println("Invalid entry");
+                break;
         }
     }
 
@@ -113,6 +116,7 @@ public class exercise_10 {
             case 13 -> System.out.println("This is the 6th prime number under 20");
             case 17 -> System.out.println("This is the 7th prime number under 20");
             case 19 -> System.out.println("This the largest prime number under 20");
+            default -> System.out.println("Invalid entry");
         }
     }
 }
