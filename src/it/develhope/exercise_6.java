@@ -55,7 +55,7 @@ public class exercise_6 {
     private static void exercise3() {
         System.out.println("\nExercise 3:");
 
-        String textFrom2Primitives = "" + 3 + true; // <--- Edit this line
+        String textFrom2Primitives = "a" + 3 + true + 3.5; // <--- Edit this line
         System.out.println(textFrom2Primitives);
     }
 
