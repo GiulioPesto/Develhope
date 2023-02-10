@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_10">
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/recap_exercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/develhope/exercise_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/exercise_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,23 +58,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercise_9">
-    <configuration name="exercise_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_5" />
-      <module name="JavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="it.develhope.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.recap_exercise">
     <configuration name="exercise_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_6" />
       <module name="JavaProject" />
@@ -127,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="recap_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.develhope.recap_exercise" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.develhope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.recap_exercise" />
         <item itemvalue="Application.exercise_9" />
         <item itemvalue="Application.exercise_8" />
         <item itemvalue="Application.exercise_7" />
         <item itemvalue="Application.exercise_6" />
-        <item itemvalue="Application.exercise_5" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676038658427</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="exercise_6">
+      <created>1676054732734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676054732734</updated>
+    </task>
+    <task id="LOCAL-00008" summary="exercise_10">
+      <created>1676054897591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676054897592</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,11 +218,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="exercise_6" />
     <MESSAGE value="exexexe" />
     <MESSAGE value="exercise_7" />
     <MESSAGE value="exercise_8" />
     <MESSAGE value="exercise_9" />
+    <MESSAGE value="exercise_6" />
     <MESSAGE value="exercise_10" />
     <option name="LAST_COMMIT_MESSAGE" value="exercise_10" />
   </component>
