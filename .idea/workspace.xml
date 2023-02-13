@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_11">
+    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_12">
       <change afterPath="$PROJECT_DIR$/src/it/develhope/exercise_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/develhope/exercise_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/exercise_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/develhope/exercise_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/exercise_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +57,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject",
+    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Study/Appunti/src/javabasics/_10/ForLoops_ForEach_For_i.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercise_4">
+  <component name="RunManager" selected="Application.exercise_13">
     <configuration name="exercise_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_12" />
       <module name="JavaProject" />
@@ -77,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_4" />
+    <configuration name="exercise_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_13" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_8" />
+    <configuration name="exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_4" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_13" />
         <item itemvalue="Application.exercise_4" />
         <item itemvalue="Application.exercise_12" />
         <item itemvalue="Application.recap_exercise" />
         <item itemvalue="Application.exercise_9" />
-        <item itemvalue="Application.exercise_8" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676293044644</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="exercise_4">
+      <created>1676298450021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298450021</updated>
+    </task>
+    <task id="LOCAL-00013" summary="exercise_12">
+      <created>1676298467691</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298467691</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +261,9 @@
     <MESSAGE value="recap_exercise" />
     <MESSAGE value="exercise_6" />
     <MESSAGE value="exercise_11" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise_11" />
+    <MESSAGE value="exercise_4" />
+    <MESSAGE value="exercise_12" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise_12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
