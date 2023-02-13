@@ -2,7 +2,7 @@ package it.develhope;
 
 import java.util.ArrayList;
 
-public class exercise_11 {
+public class exercise_12 {
     public static void main(String[] args) {
         exercise1();
         exercise2();
