@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="recap_exercise" />
+    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_6">
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/exercise_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,18 +52,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.recap_exercise">
-    <configuration name="exercise_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_6" />
+}]]></component>
+  <component name="RunManager" selected="Application.exercise_11">
+    <configuration name="exercise_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_11" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_11" />
         <item itemvalue="Application.recap_exercise" />
         <item itemvalue="Application.exercise_9" />
         <item itemvalue="Application.exercise_8" />
         <item itemvalue="Application.exercise_7" />
-        <item itemvalue="Application.exercise_6" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676058148781</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="exercise_6">
+      <created>1676288298280</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676288298280</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,10 +236,10 @@
     <MESSAGE value="exercise_7" />
     <MESSAGE value="exercise_8" />
     <MESSAGE value="exercise_9" />
-    <MESSAGE value="exercise_6" />
     <MESSAGE value="exercise_10" />
     <MESSAGE value="recap_exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="recap_exercise" />
+    <MESSAGE value="exercise_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise_6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
