@@ -68,7 +68,7 @@ public class exercise_4 {
         System.out.println("\nExercise 3:");
         // Write your code here
         double celsius = 36.4;
-        var fahrenheit = (celsius * 1.8) + 32;
+        double fahrenheit = (celsius * 1.8) + 32;
         System.out.println("The degrees in celsius are: " + celsius);
         System.out.println("The degree in fahrenheit are: " + fahrenheit);
     }
