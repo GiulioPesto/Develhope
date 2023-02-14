@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_13">
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/exercise_14.java" afterDir="false" />
+    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_14">
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/exercise_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,24 +57,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Study/Appunti/src/javabasics/_11/While_DoWhile_Loop.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Study/Appunti/src/javabasics/_10/ForLoops_ForEach_For_i.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercise_14">
-    <configuration name="exercise_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_12" />
-      <module name="JavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="it.develhope.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercise_15">
     <configuration name="exercise_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_13" />
       <module name="JavaProject" />
@@ -101,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_15" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.develhope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_4" />
       <module name="JavaProject" />
@@ -114,12 +114,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="recap_exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.develhope.recap_exercise" />
+    <configuration name="test.java" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="javabasics.test.test" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="it.develhope.*" />
+          <option name="PATTERN" value="javabasics.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_15" />
+        <item itemvalue="Application.test.java" />
         <item itemvalue="Application.exercise_14" />
         <item itemvalue="Application.exercise_13" />
         <item itemvalue="Application.exercise_4" />
-        <item itemvalue="Application.exercise_12" />
-        <item itemvalue="Application.recap_exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676300599839</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="exercise_14">
+      <created>1676309463708</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676309463708</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +280,8 @@
     <MESSAGE value="exercise_4" />
     <MESSAGE value="exercise_12" />
     <MESSAGE value="exercise_13" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise_13" />
+    <MESSAGE value="exercise_14" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise_14" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
