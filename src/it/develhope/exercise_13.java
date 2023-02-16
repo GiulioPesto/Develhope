@@ -70,6 +70,13 @@ public class exercise_13 {
             int maxNumber = 0;
 
             // Write code here
+            for (int i : items) {
+                if (i < minNumber) {
+                    minNumber = i;
+                }
+                maxNumber = Math.max(maxNumber, i);
+            }
+            System.out.println(minNumber + " " + maxNumber);
         }
 
         /**
@@ -120,42 +127,11 @@ public class exercise_13 {
         private static void exercise5() {
             for (int timesTableNumber = 1; timesTableNumber <= 10; timesTableNumber++) {
                 // Your for i loop here
-                for (timesTableNumber = 2; timesTableNumber <= 20; timesTableNumber += 2) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 3; timesTableNumber <= 30; timesTableNumber += 3) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 4; timesTableNumber <= 40; timesTableNumber += 4) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 5; timesTableNumber <= 50; timesTableNumber += 5) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 6; timesTableNumber <= 60; timesTableNumber += 6) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 7; timesTableNumber <= 70; timesTableNumber += 7) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 8; timesTableNumber <= 80; timesTableNumber += 8) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 9; timesTableNumber <= 90; timesTableNumber += 9) {
-                    System.out.println(timesTableNumber);
-                }
-
-                for (timesTableNumber = 10; timesTableNumber <= 100; timesTableNumber += 10) {
-                    System.out.println(timesTableNumber);
+                System.out.println("\n" + "Multiplication Table of: " + timesTableNumber );
+                for (int timesTable = 1; timesTable <= 10; timesTable++) {
+                    System.out.println(timesTable * timesTableNumber);
                 }
             }
         }
-    }
+}
 

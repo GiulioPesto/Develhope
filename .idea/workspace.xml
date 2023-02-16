@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_15">
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/exercise_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/exercise_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/exercise_13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +57,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Study/Appunti",
+    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercise_15">
+  <component name="RunManager" selected="Application.exercise_13">
     <configuration name="exercise_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.develhope.exercise_13" />
       <module name="JavaProject" />
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_13" />
         <item itemvalue="Application.exercise_15" />
         <item itemvalue="Application.exercise_16" />
         <item itemvalue="Application.test.java" />
         <item itemvalue="Application.exercise_14" />
-        <item itemvalue="Application.exercise_13" />
       </list>
     </recent_temporary>
   </component>
