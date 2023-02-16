@@ -73,7 +73,7 @@ public class exercise_15 {
         allVariables(myLunchPrice, lunchType, description, weightInGrams);
         allVariables(6.99, "soup", "Delicious soup", 100);
     }
-    public static void allVariables(double myLunchPrice, String lunchType, String description, int weightInGrams) {
-        System.out.println(myLunchPrice + " " + lunchType + " " + description + " " + weightInGrams);
+    public static void allVariables(double myLunchPrice, String Type, String description, int weight) {
+        System.out.println(myLunchPrice + " " + Type + " " + description + " " + weight);
     }
 }
