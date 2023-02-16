@@ -1,6 +1,7 @@
 package it.develhope;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class exercise_12 {
     public static void main(String[] args) {
@@ -23,14 +24,11 @@ public class exercise_12 {
         ArrayList<Integer> numbers = new ArrayList<>();
 
         //Write your code here
-        numbers.add(1);
-        numbers.add(2);
-        numbers.add(3);
-        numbers.add(4);
-        numbers.add(5);
-        numbers.add(6);
-        numbers.add(7);
-        numbers.add(8);
+        Random random = new Random();
+        for (int i = 0; i < 8; i++) {
+            int nextNumber = random.nextInt(10);
+            numbers.add(nextNumber);
+        }
         System.out.println(numbers.get(0));
         numbers.remove(0);
         numbers.remove(0);
