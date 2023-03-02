@@ -69,20 +69,15 @@ import java.util.List;
             List<Integer> studentAges = Arrays.asList(23, 31, 38);
             double sum = 0;
             for (int i = 0; i < studentAges.size(); i++) {
-                createNewStudent(studentNames.get(i), studentAges.get(i));
+                createNewCourse(studentAges.get(i));
                 sum += studentAges.get(i);
             }
             System.out.println(sum / studentAges.size());
         }
 
-
-            private static Course createNewCourse(String name, int age) {
+            private static Course createNewCourse(int age) {
                 Course course = new Course();
-                course.name = name;
                 course.age = age;
-                System.out.println(name + " " + age);
                 return course;
             }
-
-
         }

@@ -1,4 +1,4 @@
-package it.develhope;
+package it.develhope.JavaBasics;
 
 public class exercise_2 {
     public static void main(String[] args) {

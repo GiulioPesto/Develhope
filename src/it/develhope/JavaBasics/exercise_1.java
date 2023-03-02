@@ -1,4 +1,4 @@
-package it.develhope;
+package it.develhope.JavaBasics;
 
 public class exercise_1 {
     //Run this like before to execute all the exercises

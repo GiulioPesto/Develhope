@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_3">
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_4/ExerciseLunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_4/Exercise_4.java" afterDir="false" />
+    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_1/Exercise_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_1/Exercise_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_4/ExerciseLunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/JavaOOP/exercise_4/ExerciseLunch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "E:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject",
+    "last_opened_file_path": "E:/Lavoro/Develhope/SalaGiochi/videogameRanked",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -136,8 +138,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercise_4" />
-        <item itemvalue="Application.Exercise_3" />
         <item itemvalue="Application.Exercise_2" />
+        <item itemvalue="Application.Exercise_3" />
         <item itemvalue="Application.Exercise_1" />
         <item itemvalue="Application.exercise_13" />
       </list>
@@ -306,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677334245823</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="exercise_4">
+      <created>1677508790286</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677508790286</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,14 +339,14 @@
     <MESSAGE value="recap_exercise" />
     <MESSAGE value="exercise_6" />
     <MESSAGE value="exercise_11" />
-    <MESSAGE value="exercise_4" />
     <MESSAGE value="exercise_14" />
     <MESSAGE value="exercise_15" />
     <MESSAGE value="exercise_13" />
     <MESSAGE value="exercise_12" />
     <MESSAGE value="exercise_2" />
     <MESSAGE value="exercise_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise_3" />
+    <MESSAGE value="exercise_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise_4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

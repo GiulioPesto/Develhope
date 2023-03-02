@@ -18,7 +18,7 @@ public class ExerciseLunch {
         System.out.println(MAX_PRICE);
     }
 
-    private void printLunch() {
+    public void printLunch() {
         System.out.println("Lunch{" +
                 "price=" + price +
                 ", nameOfDayEaten='" + nameOfDayEaten + '\'' +
