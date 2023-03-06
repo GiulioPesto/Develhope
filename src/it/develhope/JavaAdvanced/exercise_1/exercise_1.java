@@ -1,4 +1,4 @@
-package it.develhope.JavaAdvanced.esercise_1;
+package it.develhope.JavaAdvanced.exercise_1;
 
 import java.util.*;
 
