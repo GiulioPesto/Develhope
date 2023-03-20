@@ -66,6 +66,5 @@ import org.junit.jupiter.api.Test;
             Assertions.assertThrows(ArithmeticException.class, () -> calculator.power(0, 0));
             Assertions.assertThrows(ArithmeticException.class, () -> calculator.power(5, 1));
             Assertions.assertThrows(ArithmeticException.class, () -> calculator.power(-5, -1));
-
         }
 }
