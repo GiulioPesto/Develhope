@@ -29,7 +29,6 @@ public class Person {
         Person person = (Person) o;
         return age == person.age && Objects.equals(name, person.name) && Objects.equals(address, person.address);
     }
-
     @Override
     public int hashCode() {
         return Objects.hash(name, age, address);

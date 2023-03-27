@@ -1,8 +1,8 @@
 package it.develhope.check_exe_5;
 
 public abstract class Product {
-    private String name;
-    private int price;
+    protected String name;
+    protected int price;
 
     public Product(String name, int price) {
         this.name = name;

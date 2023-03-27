@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="exercise_1 Advanced OOP">
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/exercise_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p2/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p2/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p3/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p3/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p3/Piano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_2/p3/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_3/exercise_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Articolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Negozio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Sconto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/TipoProdotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/readme.txt" afterDir="false" />
+    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="Maronn quant robb">
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/Java_In_Production/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/Java_In_Production/exercise_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/JavaAdvancedOOP/exercise_3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Negozio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Negozio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -72,26 +59,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "F:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="it.develhope.JavaOOP.exercise_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exercise_3">
+  <component name="RunManager" selected="Application.it.develhope.Java_In_Production.exercise_1">
     <configuration name="exercise_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.develhope.JavaAdvancedOOP.exercise_1.exercise_1" />
       <module name="JavaProjects" />
@@ -144,29 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.exercise3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="it.develhope.Java_In_Production.exercise_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.develhope.Java_In_Production.exercise_1" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="it.develhope.JavaAdvanced.exercise_7.*" />
+          <option name="PATTERN" value="it.develhope.Java_In_Production.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="it.develhope.JavaAdvanced.exercise_7" />
-      <option name="MAIN_CLASS_NAME" value="it.develhope.JavaAdvanced.exercise_7.CalculatorTest" />
-      <option name="METHOD_NAME" value="exercise3" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.it.develhope.Java_In_Production.exercise_1" />
         <item itemvalue="Application.exercise_3" />
         <item itemvalue="Application.exercise_2" />
         <item itemvalue="Application.exercise_1" />
         <item itemvalue="Application.exercise_6" />
-        <item itemvalue="JUnit.CalculatorTest.exercise3" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679327096254</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Maronn quant robb">
+      <created>1679507171792</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679507171793</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +401,8 @@
     <MESSAGE value="exercise_4" />
     <MESSAGE value="Add all new exercises" />
     <MESSAGE value="exercise_1 Advanced OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise_1 Advanced OOP" />
+    <MESSAGE value="Maronn quant robb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maronn quant robb" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
