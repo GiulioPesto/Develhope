@@ -1,4 +1,4 @@
-package it.develhope.Java_In_Production;
+package it.develhope.Java_In_Production.exercise_1;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

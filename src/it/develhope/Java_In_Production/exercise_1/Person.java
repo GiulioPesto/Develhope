@@ -1,4 +1,4 @@
-package it.develhope.Java_In_Production;
+package it.develhope.Java_In_Production.exercise_1;
 
 public record Person(String name, int age, String address) {
     @Override
