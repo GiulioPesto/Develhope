@@ -1,7 +1,5 @@
 package it.develhope.Java_In_Production.exercise_2;
 
-import java.util.ArrayList;
-import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
