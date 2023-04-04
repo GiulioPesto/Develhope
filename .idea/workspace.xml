@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="JavaInProduction">
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/Java_In_Production/exercise_3/exercise_3.java" afterDir="false" />
+    <list default="true" id="c6328dcc-5870-48cb-a59a-65e71e041f7a" name="Changes" comment="Debugg">
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/File_e_Parole/FileAndParole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/develhope/File_e_Parole/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/develhope/Java_In_Production/exercise_2/exercise_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/Java_In_Production/exercise_2/exercise_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Articolo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Negozio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/Sconto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/TipoProdotto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/check_exe_5/readme.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Record" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -56,20 +64,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "F:/Lavoro/Develhope/IJ/Exercise/Work/JavaProject",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Lavoro/Develhope/teamProject/RistoranteGruppo4Java11&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="it.develhope.JavaOOP.exercise_3" />
@@ -384,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680002322839</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Debugg">
+      <created>1680012719537</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680012719537</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,20 +436,21 @@
     <MESSAGE value="exercise_1 Advanced OOP" />
     <MESSAGE value="Maronn quant robb" />
     <MESSAGE value="JavaInProduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaInProduction" />
+    <MESSAGE value="Debugg" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debugg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/it/develhope/Java_In_Production/exercise_3/exercise_3.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="6" />
+          <line>44</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/it/develhope/Java_In_Production/exercise_3/exercise_3.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="7" />
+          <line>57</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
